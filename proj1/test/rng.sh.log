@@ -1,0 +1,6 @@
+1..5
+ok 1 verifying the successful code compilation
+ok 2 verifying if verification mode runs properly
+ok 3 verifying if debug mode runs properly
+ok 4 verifying that the Gauss-Seidel solver matches with reference outputs
+ok 5 verifying that the Jacobi solver matches with reference outputs
